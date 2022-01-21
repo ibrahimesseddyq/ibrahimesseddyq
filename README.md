@@ -82,7 +82,7 @@ From Morocco.🇲🇦 <br />
 
 📊 **Languages that i use most:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimesseddyq)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimesseddyq&?exclude_repo=forage_virtualExp)](https://github.com/anuraghazra/github-readme-stats)
   
 
 <p align="center">
