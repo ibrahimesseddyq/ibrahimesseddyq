@@ -1,4 +1,9 @@
-
+<style>
+  body{
+    display:column;
+    align-items:center;
+  }
+</style>
 # Full Stack Developper's Loading🔥.
 
 My name is Ibrahim Esseddyq a Web Developper, Graphic Designer/Youcode Student,
