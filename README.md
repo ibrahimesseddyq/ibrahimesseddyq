@@ -33,6 +33,5 @@ PHP         16 hr 32 mins    ████████░░░░░░░░░
 HTML & CSS      2h 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   5.74 % 
 C            1h 25 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   2.63 % 
 ```
-  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ibrahimesseddyq&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <!--END_SECTION:waka-->
