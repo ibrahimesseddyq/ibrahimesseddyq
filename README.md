@@ -24,3 +24,13 @@ From Morocco.🇲🇦 <br />
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ibrahimesseddyq&show_icons=true&theme=gotham" alt="ibrahimesseddyq" />
+  
+📊 **this week i spent my time on:**
+
+  ```text
+JavaScript   35 hrs 53 mins  ███████████████▓░░░░░░░░░   61.27 % 
+PHP         16 hr 32 mins    ████████░░░░░░░░░░░░░░░░░   30.36 % 
+HTML & CSS      2h 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   5.74 % 
+C            1h 25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   2.63 % 
+```
+<!--END_SECTION:waka-->
