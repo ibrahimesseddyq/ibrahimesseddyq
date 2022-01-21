@@ -17,7 +17,10 @@ From Morocco.🇲🇦 <br />
 📊 **Languages that i use most:**
 ## Thechnologies I work with :
 <p>
-<i class="devicon-bootstrap-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+
 <i class="devicon-css3-plain-wordmark colored"></i>
 <i class="devicon-debian-plain-wordmark colored"></i>
 <i class="devicon-dart-plain colored"></i>
