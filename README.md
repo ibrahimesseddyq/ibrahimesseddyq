@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 
 # Full Stack Developper's Loading🔥.
@@ -16,12 +17,33 @@ From Morocco.🇲🇦 <br />
 📊 **Languages that i use most:**
 ## Thechnologies I work with :
 <p>
+<i class="devicon-bootstrap-plain-wordmark colored"></i>
+<i class="devicon-css3-plain-wordmark colored"></i>
+<i class="devicon-debian-plain-wordmark colored"></i>
+<i class="devicon-dart-plain colored"></i>
+<i class="devicon-git-plain-wordmark colored"></i>
+<i class="devicon-html5-plain colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-laravel-plain colored"></i>
+<i class="devicon-linux-plain colored"></i>
+<i class="devicon-mysql-plain-wordmark colored"></i>
+<i class="devicon-nginx-original colored"></i>
+<i class="devicon-pandas-original-wordmark colored"></i>
+<i class="devicon-php-plain colored"></i>
+<i class="devicon-python-plain colored"></i>
+<i class="devicon-sass-original colored"></i>
+<i class="devicon-trello-plain colored"></i>
+<i class="devicon-ubuntu-plain colored"></i>
+<i class="devicon-vim-plain colored"></i>
+<i class="devicon-wordpress-plain colored"></i>
+<i class="devicon-bash-plain colored"></i>
+<i class="devicon-c-line-wordmark colored"></i>
+<i class="devicon-django-plain colored"></i>
+<i class="devicon-figma-plain colored"></i>
+<i class="devicon-nodejs-plain-wordmark colored"></i>
+<i class="devicon-flutter-plain colored"></i>
 
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimesseddyq)](https://github.com/anuraghazra/github-readme-stats)
