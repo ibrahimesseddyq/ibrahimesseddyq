@@ -8,6 +8,7 @@
   }
 </style>
     </head>
+  <body>
 # Full Stack Developper's Loading🔥.
 
 My name is Ibrahim Esseddyq a Web Developper, Graphic Designer/Youcode Student,
@@ -50,5 +51,6 @@ From Morocco.🇲🇦 <br />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+    </body>
   <html>
 
