@@ -35,5 +35,5 @@ C               1h 25 mins       █░░░░░░░░░░░░░░�
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60width=1000&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
