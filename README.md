@@ -1,5 +1,4 @@
-<link href="https://cdn.jsdelivr.net/npm/@exuanbo/file-icons-js@latest/dist/css/file-icons.min.css" rel="stylesheet">
-<i class="icon css3-icon medium-blue"></i>
+
 
 # Full Stack Developper's Loading🔥.
 
