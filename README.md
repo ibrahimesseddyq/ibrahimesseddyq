@@ -1,3 +1,4 @@
+<link href="https://cdn.jsdelivr.net/npm/@exuanbo/file-icons-js@latest/dist/css/file-icons.min.css" rel="stylesheet">
 
 # Full Stack Developper's Loading🔥.
 
