@@ -34,4 +34,6 @@ HTML & CSS      2h 20 mins       █░░░░░░░░░░░░░░�
 C               1h 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   2.63 % 
 ```
 
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
