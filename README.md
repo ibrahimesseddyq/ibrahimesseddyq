@@ -23,8 +23,8 @@ From Morocco.🇲🇦 <br />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimesseddyq)](https://github.com/anuraghazra/github-readme-stats)
-<span > <img src="https://github-readme-stats.vercel.app/api?username=ibrahimesseddyq&show_icons=true&theme=gotham" alt="ibrahimesseddyq" />
+<p align="center" >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimesseddyq)](https://github.com/anuraghazra/github-readme-stats)/>
+<p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=ibrahimesseddyq&show_icons=true&theme=gotham" alt="ibrahimesseddyq" />
   
 📊 **this week i spent my time on:**
 
