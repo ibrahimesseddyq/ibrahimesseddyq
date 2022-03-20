@@ -7,8 +7,8 @@ My name is Ibrahim Esseddyq a Web Developper, Graphic Designer/Youcode Student,
 From Morocco.🇲🇦 <br />
 #### "When I wrote the code, only God and I understood what I did. Now only God knows. "
 
-- 🌱 I’m currently learning **PHP ,Laravel and JS**
-- 💬 Ask me about **PHP, JS and Dart**
+- 🌱 I’m currently learning **PHP ,Angular and JS**
+- 💬 Ask me about **PHP, JS **
 - ⚡ Fun fact: I'm in Love with 🐧 Debian Based Distros
 
 ## Where you can find me :
