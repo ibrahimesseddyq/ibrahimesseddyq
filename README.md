@@ -7,7 +7,7 @@ My name is Ibrahim Esseddyq a Web Developper,Youcode Student,
 From Morocco.🇲🇦 <br />
 #### "When I wrote the code, only God and I understood what I did. Now only God knows. "
 
-- 🌱 I’m currently learning **Web3 ,Angular and NodeJS**
+- 🌱 I’m currently learning **Solidity ,Angular and NodeJS**
 - 💬 Ask me about **PHP, JS **
 - ⚡ Fun fact: I'm in Love with 🐧 Debian Based Distros
 
