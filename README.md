@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 
-# Full Stack Developper's Loading🔥.
+# Full Stack Developer's Loading🔥.
 
 My name is Ibrahim Esseddyq a Web Developper,Youcode Student, Economics and Management Student at USMS
 From Morocco.🇲🇦 <br />
